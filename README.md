@@ -7,10 +7,10 @@
 ![NextJSv15](https://img.shields.io/badge/-Next%20v15-%23232F3E?logo=Next.JS)
 ![Reactv19](https://img.shields.io/badge/-React%20v18-%23232F3E?logo=React)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
-![Jest](https://img.shields.io/badge/-Prettier-%23232F3E?logo=Jest)
+![Jest](https://img.shields.io/badge/-Jest-%23232F3E?logo=Jest)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23232F3E?logo=Prettier)
 ![ESLint](https://img.shields.io/badge/-ESLint-%23232F3E?logo=ESLint)
-![Prettier](https://img.shields.io/badge/-Prettier-%23232F3E?logo=Prettier)
+![Docker](https://img.shields.io/badge/-Docker-%23232F3E?logo=Docker)
 
 #### Installation
 

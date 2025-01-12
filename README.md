@@ -15,7 +15,7 @@
 #### Installation
 
 ```
-bun i  && bun dev (This will run the app at localhost:3000)
+bun i && bun dev (This will run the app at localhost:3000)
 
 http://localhost:3000
 ```
@@ -24,12 +24,23 @@ OR
 
 #### Docker
 
+First you need to build the next app
+
+
 ```
-docker build
+bun run build
 
 ```
 
-Once build you can then run this will run the app at localhost:3000
+Then you can build the docker image
+
+
+```
+docker build . --no-cache -t noughts-and-crosses
+
+```
+
+Once thats done you can run the docker compose file to build you can then run this will run the app at localhost:3000
 
 ```
 docker compose up

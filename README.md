@@ -53,7 +53,7 @@ docker compose up
 bun dev - Next dev
 bun lint - Audit code quality
 bun test -  Will run the Jest tests
-bun build - Next build
+bun run build - Next build
 bun start - Next start
 bun export - Export to static HTML
 ```

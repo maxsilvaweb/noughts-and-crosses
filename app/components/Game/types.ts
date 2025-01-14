@@ -5,18 +5,23 @@ export type GameState = {
 
 export type Move = {
   id: string;
-  gameId: string;
   position: number;
   player: string;
   moveNumber: number;
-  createdAt: string;
 };
 
 export type Game = {
   id: string;
+  player1: string;
+  player2: string;
+  state: GameState;
   createdAt: string;
-  updatedAt: string;
   status: string;
   winner: string | null;
   moves: Move[];
+};
+
+export type GamesResponse = {
+  data: Game[];
+  result_count: number;
 };

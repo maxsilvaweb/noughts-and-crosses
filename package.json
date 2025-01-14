@@ -10,8 +10,11 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "@tanstack/react-query": "^5.64.1",
     "framer-motion": "^11.17.0",
     "next": "15.1.4",
+    "prisma": "6.2.1",
     "react": "^19.0.0",
     "react-confetti": "^6.2.2",
     "react-dom": "^19.0.0"

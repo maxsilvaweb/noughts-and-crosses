@@ -1,8 +1,8 @@
-# noughts-and-crosses app
+# Docker, NextJS 15 - Noughts and crosses app
 
 <img src="https://therealsujitk-vercel-badge.vercel.app/?app=noughts-and-crosses" />
 
-This can be viewed online at: [https://noughts-and-crosses-iy89govka-silvaweb.vercel.app](https://noughts-and-crosses-iy89govka-silvaweb.vercel.app)
+This can be viewed online at: [https://noughts-and-crosses-iy89govka-silvaweb.vercel.app](https://noughts-and-crosses-iy89govka-silvaweb.vercel.app) (Might have been diactivated)
 
 ### Stack
 
